@@ -57,7 +57,7 @@ More information in the haddock documentation.
 
 ## Deriving binary instances using GHC's Generic ##
 
-Beginning with GHC 7.2, it is possible to use binary serialization without
+Beginning with GHC 7.3, it is possible to use binary serialization without
 writing any instance boilerplate code.
 
 ```haskell
